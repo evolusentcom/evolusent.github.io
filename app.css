@@ -1,0 +1,125 @@
+/* CSS for Evolusent Landing Page */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFFFFF;
+  color: #4D4D4D;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #002E5D;
+  color: #FFFFFF;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.header p {
+  margin: 5px 0;
+  font-size: 1.2em;
+}
+
+.hero-section {
+  background-color: #E0E0E0;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.hero-section h2 {
+  font-size: 2em;
+  color: #002E5D;
+}
+
+.hero-section p {
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.hero-section .cta-button {
+  background-color: #0074D9;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.value-proposition {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.value-proposition p {
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.our-approach {
+  background-color: #F8F8F8;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.our-approach h2 {
+  font-size: 2em;
+  color: #002E5D;
+}
+
+.our-approach p {
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.case-studies,
+.industry-expertise,
+.thought-leadership,
+.client-impact {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.case-studies h2,
+.industry-expertise h2,
+.thought-leadership h2,
+.client-impact h2 {
+  font-size: 2em;
+  color: #002E5D;
+}
+
+.case-studies p,
+.industry-expertise p,
+.thought-leadership p,
+.client-impact p {
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.client-logos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.client-logos img {
+  margin: 10px;
+  height: 50px;
+}
+
+.footer {
+  background-color: #002E5D;
+  color: #FFFFFF;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer p {
+  margin: 5px 0;
+  font-size: 1em;
+}
